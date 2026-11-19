@@ -1,5 +1,5 @@
 # Tiny Tapeout project information (Wokwi project)
-project: Sumador28bit
+project: 
   wokwi_id:     481148876445931521       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Sumadorde28Bits"      # Project title
   author:       "MaiahSánchez"      # Your name
@@ -16,10 +16,10 @@ project: Sumador28bit
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "I0"
-  ui[1]: "I1"
-  ui[2]: "I2"
-  ui[3]: "I3"
+  ui[0]: "IN0"
+  ui[1]: "IN1"
+  ui[2]: "IN2"
+  ui[3]: "IN3"
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
