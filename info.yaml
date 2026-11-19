@@ -2,7 +2,7 @@
 project: Sumador28bits
   wokwi_id:     481148876445931521       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Sumadorde28Bits"      # Project title
-  author:       "Maiah Sánchez"      # Your name
+  author:       "MaiahSánchez"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "El proyecto se trata de un Sumador de 28 bits"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
